@@ -4,11 +4,11 @@
 
 ## Introduction
 
-    1. EDA + Model1: This contains all the data scrubbing performed for the first model as well as handling outliers and checking assumptions of regression. 
+1. EDA + Model1: This contains all the data scrubbing performed for the first model as well as handling outliers and checking assumptions of regression. 
 
-    2. Model2: This model predicts using only numerical values that are logged to standardize distribution. Distributions were not equal and i wanted to test the impact of this on results.
+2. Model2: This model predicts using only numerical values that are logged to standardize distribution. Distributions were not equal and i wanted to test the impact of this on results.
 
-    3. Model3: This model predicts using numerical values that have been scrubbed like previous files but does not have log functions. 
+3. Model3: This model predicts using numerical values that have been scrubbed like previous files but does not have log functions. 
 
 
 ## Data Cleaning and Preparation
